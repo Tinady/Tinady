@@ -2,8 +2,7 @@
 
 A front-end developer focusing on React.
 
-
-(https://github-readme-stats.vercel.app/api?username=tinady)](https://github.com/tinady/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinady)](https://github.com/Tinady/github-readme-stats)
 
 <!--
 **Tinady/Tinady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
