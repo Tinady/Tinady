@@ -2,7 +2,7 @@
 
 A front-end developer focusing on React.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinady)](https://github.com/tinady/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinady&show_icons=true&theme=radical)
 
 
 <!--
